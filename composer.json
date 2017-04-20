@@ -1,7 +1,7 @@
 {
   "name": "keltiecochrane/themosis-view",
   "description": "A plugin that overrides some default blade behaviour for Themosis",
-  "keywords": ["themosis", "plugin"],
+  "keywords": ["themosis"],
   "authors": [
     {
       "name": "Daniel Gadd",
@@ -14,7 +14,6 @@
       "homepage": "https://keltiecochrane.com"
     }
   ],
-  "type": "wordpress-plugin",
   "repositories": [
     {
       "type": "composer",

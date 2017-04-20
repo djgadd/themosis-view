@@ -2,9 +2,9 @@
 
 namespace KeltieCochrane\View;
 
-use Compilers\BladeCompiler;
 use Illuminate\View\Engines\CompilerEngine;
 use Illuminate\View\Engines\EngineResolver;
+use KeltieCochrane\View\Compilers\BladeCompiler;
 use Themosis\View\ViewServiceProvider as ServiceProvider;
 
 class ViewServiceProvider extends ServiceProvider
