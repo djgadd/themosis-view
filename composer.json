@@ -1,5 +1,5 @@
 {
-  "name": "keltiecochrane/themosis-view",
+  "name": "djgadd/themosis-view",
   "description": "A plugin that overrides some default blade behaviour for Themosis",
   "keywords": ["themosis"],
   "authors": [
